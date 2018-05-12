@@ -1,0 +1,28 @@
+_repo: War-s-Brighter-SideCorrespondents-with-Lord-Roberts-s-Forces-March-April-1900_39881
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ralph, Julian
+    birthdate: 1853
+    deathdate: 1903
+    gutenberg_agent_id: '37533'
+    url: http://www.gutenberg.org/2009/agents/37533
+description: ''
+gutenberg_issued: '2012-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Periodicals'
+- !lcsh 'Friend (Bloemfontein, South Africa)'
+- !lcc 'DT'
+title: "War's Brighter Side\r\nThe Story of The Friend Newspaper Edited by the Correspondents\
+  \ with Lord Roberts's Forces, March-April, 1900"
+url: http://www.gutenberg.org/ebooks/39881
